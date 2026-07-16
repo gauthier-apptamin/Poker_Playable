@@ -1,0 +1,264 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/PokerAssets/bandeau.jpg",
+                "type": "image",
+                "key": "bandeau"
+            },
+            {
+                "url": "assets/PokerAssets/callCenterBTN.png",
+                "type": "image",
+                "key": "callCenterBTN"
+            },
+            {
+                "url": "assets/PokerAssets/callOuterBTN.png",
+                "type": "image",
+                "key": "callOuterBTN"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/CardBacks.png",
+                "type": "image",
+                "key": "CardBacks"
+            },
+            {
+                "url": "assets/PokerAssets/Cartoon hand.png",
+                "type": "image",
+                "key": "Cartoon hand"
+            },
+            {
+                "url": "assets/PokerAssets/checkIMG.png",
+                "type": "image",
+                "key": "checkIMG"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/corps.mp4"
+                ],
+                "type": "video",
+                "key": "corps"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/corpsMusic.mp3"
+                ],
+                "type": "audio",
+                "key": "corpsMusic"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/Diamond_4.png",
+                "type": "image",
+                "key": "Diamond_4"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/Diamond_6.png",
+                "type": "image",
+                "key": "Diamond_6"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/Diamond_7.png",
+                "type": "image",
+                "key": "Diamond_7"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/Diamond_J.png",
+                "type": "image",
+                "key": "Diamond_J"
+            },
+            {
+                "url": "assets/PokerAssets/endcard.jpg",
+                "type": "image",
+                "key": "endcard"
+            },
+            {
+                "url": "assets/PokerAssets/EndCard_CTA.png",
+                "type": "image",
+                "key": "EndCard_CTA"
+            },
+            {
+                "url": "assets/PokerAssets/foldCenterBTN.png",
+                "type": "image",
+                "key": "foldCenterBTN"
+            },
+            {
+                "url": "assets/PokerAssets/foldCross.png",
+                "type": "image",
+                "key": "foldCross"
+            },
+            {
+                "url": "assets/PokerAssets/foldOuterBTN.png",
+                "type": "image",
+                "key": "foldOuterBTN"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/heart_4.png",
+                "type": "image",
+                "key": "heart_4"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/Heart_7.png",
+                "type": "image",
+                "key": "Heart_7"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/Heart_8.png",
+                "type": "image",
+                "key": "Heart_8"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/Heart_9.png",
+                "type": "image",
+                "key": "Heart_9"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/heart_J.png",
+                "type": "image",
+                "key": "heart_J"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/intro.mp4"
+                ],
+                "type": "video",
+                "key": "intro"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/IntroMusic.mp3"
+                ],
+                "type": "audio",
+                "key": "IntroMusic"
+            },
+            {
+                "url": "assets/fonts/LATO-BOLD.TTF",
+                "format": "truetype",
+                "descriptors": {},
+                "type": "font",
+                "key": "LATO-BOLD"
+            },
+            {
+                "url": "assets/fonts/LATO-REGULAR.TTF",
+                "format": "truetype",
+                "descriptors": {},
+                "type": "font",
+                "key": "LATO-REGULAR"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/loose.mp4"
+                ],
+                "type": "video",
+                "key": "loose"
+            },
+            {
+                "url": "assets/fonts/MYRIADPRO-BOLDCOND.OTF",
+                "format": "opentype",
+                "descriptors": {},
+                "type": "font",
+                "key": "MYRIADPRO-BOLDCOND"
+            },
+            {
+                "url": "assets/fonts/MYRIADPRO-COND.OTF",
+                "format": "opentype",
+                "descriptors": {},
+                "type": "font",
+                "key": "MYRIADPRO-COND"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/outroMusic.mp3"
+                ],
+                "type": "audio",
+                "key": "outroMusic"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/pokertest.mp4"
+                ],
+                "type": "video",
+                "key": "pokertest"
+            },
+            {
+                "url": "assets/PokerAssets/raiseCenterBTN.png",
+                "type": "image",
+                "key": "raiseCenterBTN"
+            },
+            {
+                "url": "assets/PokerAssets/raiseChevron.png",
+                "type": "image",
+                "key": "raiseChevron"
+            },
+            {
+                "url": "assets/PokerAssets/raiseOuterBTN.png",
+                "type": "image",
+                "key": "raiseOuterBTN"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/resolutionA.mp4"
+                ],
+                "type": "video",
+                "key": "resolutionA"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/resolutionB.mp4"
+                ],
+                "type": "video",
+                "key": "resolutionB"
+            },
+            {
+                "url": "assets/PokerAssets/rounded_rectangle.png",
+                "type": "image",
+                "key": "rounded_rectangle"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/Spade_5.png",
+                "type": "image",
+                "key": "Spade_5"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/Spade_J.png",
+                "type": "image",
+                "key": "Spade_J"
+            },
+            {
+                "url": "assets/PokerAssets/table red.png",
+                "type": "image",
+                "key": "table red"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/TicTac.mp3"
+                ],
+                "type": "audio",
+                "key": "TicTac"
+            },
+            {
+                "url": "assets/PokerAssets/Cards/treffle_7.png",
+                "type": "image",
+                "key": "treffle_7"
+            },
+            {
+                "url": [
+                    "assets/PokerAssets/win.mp4"
+                ],
+                "type": "video",
+                "key": "win"
+            },
+            {
+                "url": "assets/PokerAssets/yourTurnBandeau.png",
+                "type": "image",
+                "key": "yourTurnBandeau"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false,
+        "visible": true
+    }
+}
