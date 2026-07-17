@@ -228,6 +228,11 @@
                 "key": "table red"
             },
             {
+                "url": "assets/PokerAssets/tapToPlay_CTA.png",
+                "type": "image",
+                "key": "tapToPlay_CTA"
+            },
+            {
                 "url": [
                     "assets/PokerAssets/TicTac.mp3"
                 ],
